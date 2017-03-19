@@ -1,11 +1,11 @@
-Type make to build.
+Type 'make' to build.
 The tic tac toe board is represented as a string of decimal points. The points are the empty spaces and the 'X' will be your move, 'O' will be the computers move.
 
 So  the state  X..   will be represented as X...O....
                .O.
                ...
 
-Pass X...O.... to like so:
+Pass X...O.... like so:
 
 ./ttt X...O....
 
