@@ -51,13 +51,11 @@ VPATH = obj
 VPATH = obj
 
 SOURCES = \
-state.cpp \
 main.cpp \
 agent.cpp
 
 # all the .o files need to be listed here.  Leave backslash off last list item
 APPOBJS = \
-$(VPATH)/state.o \
 $(VPATH)/main.o \
 $(VPATH)/agent.o
 
